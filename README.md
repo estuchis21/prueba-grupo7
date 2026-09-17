@@ -4,7 +4,7 @@
 - estuchis21
 - Lopez Melina
 - =)
-- Integrante 4
+- AMOOORE
 - Integrante 5
 
 **Repositorio GITHUB:**
