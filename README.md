@@ -7,7 +7,7 @@
 - Integrante 4
 - Integrante 5
 
-**Repositorio GITHUB:**
+**Repositorio GITHUBs:**
 https://github.com/estuchis21/prueba-grupo7.git
 
 ---
