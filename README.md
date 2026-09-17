@@ -3,7 +3,7 @@
 **Integrantes:**
 - estuchis21
 - Lopez Melina
-- Integrante 3
+- =)
 - Integrante 4
 - Integrante 5
 
