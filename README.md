@@ -1,10 +1,10 @@
-# Trabajo Práctico Integrador - Grupo XX
+# Trabajo Práctico Integrador - Grupo 7
 
 **Integrantes:**
 - estuchis21
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Lopez Melina
+- =)
+- AMOOORE
 - Integrante 5
 
 **Repositorio GITHUB:**
